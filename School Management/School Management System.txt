@@ -1,0 +1,12 @@
+School Management System
+1.Student data entry
+2.Teacher data entry
+2.Examination marks entry
+3.Student attendence
+4.Examination time table
+5.Fee collection
+6.Transport
+7.Staff Attendance
+8.Staff Payroll
+9.Due Fee  Report
+10.Attendance System
